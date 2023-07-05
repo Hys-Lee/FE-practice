@@ -4,18 +4,18 @@ const initialProducts = [
   {
     id: 0,
     name: "Baklava",
-    count: 1
+    count: 1,
   },
   {
     id: 1,
     name: "Cheese",
-    count: 5
+    count: 5,
   },
   {
     id: 2,
     name: "Spaghetti",
-    count: 2
-  }
+    count: 2,
+  },
 ];
 
 export default function ShoppingCart() {
